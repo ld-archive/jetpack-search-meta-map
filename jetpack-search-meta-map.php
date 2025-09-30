@@ -1,10 +1,12 @@
 <?php
 // Plugin Name: Jetpack Search Meta Mapping
+// Plugin URI: https://github.com/ld-archive/jetpack-search-meta-map
 // Description: Maps multiple custom fields into Jetpack Search so they can be indexed.
 //
-// Version: 1.2
+// Version: 1.3.2
 // Created: 2025-09-30
-// Author: [Anthony Arblaster](https://github.com/aarblaster) for [The Lighting Design Archive](https://ld-archive.org)
+// Author: Anthony Arblaster
+// Author URI: https://github.com/aarblaster
 //
 
 
