@@ -1,5 +1,5 @@
 # jetpack-search-meta-map
-![GitHub release](https://img.shields.io/github/release/a/ld-archive/jetpack-search-meta-map.svg)
+![GitHub release](https://img.shields.io/github/release/ld-archive/jetpack-search-meta-map.svg)
 ![GitHub All Releases](https://img.shields.io/github/downloads/ld-archive/jetpack-search-meta-map/total.svg)
 ![GitHub](https://img.shields.io/github/license/ld-archive/jetpack-search-meta-map.svg)
 
